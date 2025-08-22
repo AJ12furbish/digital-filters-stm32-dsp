@@ -1,0 +1,10 @@
+../Src/lab.c:32:9:mod	5
+../Src/lab.c:55:6:circular_buffer_shift_x	1
+../Src/lab.c:62:6:circular_buffer_shift_y	1
+../Src/lab.c:70:6:lab_init	1
+../Src/lab.c:84:6:process_input_buffer	2
+../Src/lab.c:124:9:process_left_sample	6
+../Src/lab.c:168:9:process_left_sample_circularbuffer	2
+../Src/lab.c:194:9:process_left_sample_linearbuffer	3
+../Src/lab.c:231:9:process_right_sample	1
+../Src/lab.c:247:6:process_output_buffer	1
